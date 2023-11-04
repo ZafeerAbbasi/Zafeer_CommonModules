@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stm32f4xx_it.h": "c",
+        "main.h": "c",
+        "hci_tl.h": "c",
+        "bluenrg_conf.h": "c",
+        "hci_tl_interface.h": "c",
+        "ble_types.h": "c"
+    }
+}
